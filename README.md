@@ -1,1 +1,1 @@
-# 4ch-media-parser
+Данный проект представляет собой скрипт для массового скачивания медиафайлов из тредов на 4chan. Можете менять доску и т.д. Треды не скачиваются заново, а дополняются новыми медиафайлами. This project is a script for mass downloading media files from threads on 4chan. You can change the board, etc. Threads are not downloaded again, but are updated with new media files. ONLY DOWNLOAD MEDIA
